@@ -1,2 +1,2 @@
 # gags.github
-loveyouuuu
+hello world this is test of static webpage
